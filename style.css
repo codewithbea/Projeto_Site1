@@ -1,0 +1,65 @@
+.corpo_do_txt{
+	width: auto;
+}
+
+body{
+	margin: 0px;
+	font-family: sans-serif;
+	border-radius: 10px;
+	width: 980px;
+}
+
+.titulo_principal{
+	width: auto;
+	text-align: center;
+	padding: 30px;
+	margin: 0 auto;
+	border-radius: 15px;
+}
+
+.subtitulo{
+	margin: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: fit-content;
+	background: #ADD8E6;
+	padding: 10px;
+	text-align: center;
+	border-radius: 15px;
+	font-stretch: ultra-expanded;
+}
+	.subtitulo:hover{
+		background: black;
+		color: #ADD8E6;
+		transition: 1s;
+}
+
+.imagem_avenida{
+	display: block;
+	width: 800px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+figcaption{
+	text-align: center;
+}
+
+h3{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.paragrafo_sesc, .paragrafo_avenida, .paragrafo_masp{
+	width: auto;
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+ul{
+	width: auto;
+	text-align: justify;
+	margin-right: 50px;
+}
